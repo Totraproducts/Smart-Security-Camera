@@ -1,5 +1,5 @@
 # Smart-Security-Camera
-Implementation of highly efficient Neural Network on Raspberry-Pi to create a smart camera with web based application.
+Implement a highly effective neural network on Raspberry-Pi to create a smart camera with web application.
 
 # Important Links
 ## Install tensorflow on RPi

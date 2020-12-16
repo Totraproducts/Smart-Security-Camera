@@ -12,6 +12,10 @@ Implement a highly effective neural network on Raspberry-Pi to create a smart ca
   https://cv-tricks.com/artificial-intelligence/deep-learning/accelerating-convolutional-neural-networks-on-raspberry-pi/
 ### Creating a Django API using Django Rest Framework APIView
   https://medium.com/the-andela-way/creating-a-django-api-using-django-rest-framework-apiview-b365dca53c1d
+### Configuring Django with Apache on a Raspberry Pi
+  https://mikesmithers.wordpress.com/2017/02/21/configuring-django-with-apache-on-a-raspberry-pi/
+### Raspberry Pi Network Server Guide with Django & SSH
+  https://www.codingforentrepreneurs.com/blog/raspberry-pi-network-server-guide-with-django-ssh
 
 ## Git Basic commands
 
